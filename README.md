@@ -1,5 +1,7 @@
 # Thermal Screening using Computer Vision
 
+![Thermal Screening using Computer Vision by Codevector Labs](/output/thermal-screening-codevector-labs.png)
+
 This repository is code for the blog:
 
 # Dataset
